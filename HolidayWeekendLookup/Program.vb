@@ -10,6 +10,7 @@ Module Program
     End Sub
 
     Private Function _EndedOnHolidayOrWeekend(ByVal opts As Options)
+        Dim excelConnection = New ExcelConnection
         Dim SLA = opts.SLA
         Dim Location = opts.Location
         Dim DateTime = opts.DateTime

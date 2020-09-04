@@ -17,3 +17,7 @@ C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Re
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Release\netcoreapp3.1\HolidayWeekendLookup.dll
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Release\netcoreapp3.1\HolidayWeekendLookup.pdb
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Release\netcoreapp3.1\HolidayWeekendLookup.genruntimeconfig.cache
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\Holiday LookUp.xlsx
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.xml
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Release\netcoreapp3.1\HolidayWeekendLookup.vbprojAssemblyReference.cache
