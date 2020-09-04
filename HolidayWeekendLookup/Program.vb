@@ -1,29 +1,23 @@
-Imports System
 Imports CommandLine
 
 Module Program
-    Sub Main()
-        Dim clArgs() As String = Environment.GetCommandLineArgs()
-        Dim sla As Integer = 0
-        Dim location As String = String.Empty
-        Dim datetime As String = String.Empty
+    Sub Main(ByVal args As String())
+        Dim Options = New Options
 
-        If clArgs.Count = 7 Then
-            For i As Integer = 1 To 3 Step 2
-                If clArgs(i) = "-s" Then
-                    sla = clArgs(i + 1)
-                ElseIf clArgs(i) = "-l" Then
-                    location = clArgs(i + 1)
-                ElseIf clArgs(i) = "-dt" Then
-                    datetime = clArgs(i + 1)
-                End If
-            Next
-        End If
-
-        Console.WriteLine(sla)
-        Console.WriteLine(location)
-        Console.WriteLine(datetime)
-        Console.ReadLine()
-
+        Dim unused = CommandLine.Parser.Default.ParseArguments(Of Options)(args) _
+        .WithParsed(Function(opts As Options) _EndedOnHolidayOrWeekend(opts)) _
+        .WithNotParsed(Function(errs As IEnumerable(Of [Error])) 1)
     End Sub
+
+    Private Function _EndedOnHolidayOrWeekend(ByVal opts As Options)
+        Dim SLA = opts.SLA
+        Dim Location = opts.Location
+        Dim DateTime = opts.DateTime
+
+        Console.WriteLine(SLA)
+        Console.WriteLine(Location)
+        Console.WriteLine(DateTime)
+
+        Return 0
+    End Function
 End Module

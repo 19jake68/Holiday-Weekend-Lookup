@@ -4,11 +4,19 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>HolidayWeekendLookup</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageProjectUrl>https://github.dxc.com/BMW-Development/HolidayWeekendLookup</PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\jortega33\source\builds\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="CommandLine">
-      <HintPath>..\..\..\..\Downloads\Visual Studio Scripts\CommandLineParser.2.8.0\lib\net40\CommandLine.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\Visual Studio Scripts\CommandLineParser.2.8.0\lib\net45\CommandLine.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader">
+      <HintPath>..\..\..\..\Downloads\Visual Studio Scripts\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
     </Reference>
   </ItemGroup>
 
