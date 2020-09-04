@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HolidayWeekendLookup": {
+      "commandName": "Project",
+      "commandLineArgs": "-s 24 -l Germany -dt 11AM 09022020"
+    }
+  }
+}

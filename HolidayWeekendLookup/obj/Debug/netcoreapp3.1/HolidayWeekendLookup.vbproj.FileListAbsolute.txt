@@ -1,0 +1,13 @@
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.exe
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.deps.json
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.runtimeconfig.json
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.runtimeconfig.dev.json
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.dll
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Debug\netcoreapp3.1\HolidayWeekendLookup.pdb
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.vbprojAssemblyReference.cache
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.AssemblyInfoInputs.cache
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.AssemblyInfo.vb
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.vbproj.CoreCompileInputs.cache
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.dll
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.pdb
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Debug\netcoreapp3.1\HolidayWeekendLookup.genruntimeconfig.cache

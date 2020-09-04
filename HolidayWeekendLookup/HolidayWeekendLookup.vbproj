@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>HolidayWeekendLookup</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CommandLine">
+      <HintPath>..\..\..\..\Downloads\Visual Studio Scripts\CommandLineParser.2.8.0\lib\net40\CommandLine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
