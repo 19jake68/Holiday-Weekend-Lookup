@@ -1,5 +1,4 @@
-﻿Imports CommandLine
-Public Class Options
+﻿Public Class Options
     <CommandLine.Option("s", "sla", Required:=True, HelpText:="Input Service Level Agreement")>
     Public Property SLA As Integer
 
