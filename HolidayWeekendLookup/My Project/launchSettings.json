@@ -2,7 +2,7 @@
   "profiles": {
     "HolidayWeekendLookup": {
       "commandName": "Project",
-      "commandLineArgs": "-s 24 -l Germany -d \"09/05/2020 11:00:00 AM\""
+      "commandLineArgs": "-s 48 -l Malaysia -d \"9/15/2020 9:55\""
     }
   }
 }

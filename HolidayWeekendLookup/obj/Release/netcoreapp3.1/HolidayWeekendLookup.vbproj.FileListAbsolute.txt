@@ -21,3 +21,8 @@ C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Re
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.xml
 C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\obj\Release\netcoreapp3.1\HolidayWeekendLookup.vbprojAssemblyReference.cache
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\ExcelDataReader.DataSet.pdb
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\ExcelDataReader.DataSet.xml
+C:\Users\jortega33\source\repos\HolidayWeekendLookup\HolidayWeekendLookup\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.xml
