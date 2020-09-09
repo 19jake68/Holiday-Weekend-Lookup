@@ -4,6 +4,7 @@ Module Program
     Dim ExcelModel = New ExcelModel
 
     Sub Main(ByVal args As String())
+        EnsureInitialized()
         Dim Options = New Options
 
         Parser.Default.ParseArguments(Of Options)(args) _
@@ -28,8 +29,7 @@ Module Program
     End Function
 
     Private Function _IsHoliday(ByVal Dt As DateTime, ByVal Loc As String) As Boolean
-        ' Access Excel Holiday Lookup
-        ExcelModel.Connect
+        ExcelModel.Open
         Return ExcelModel.CheckIfHoliday(Dt.ToShortDateString, Loc)
     End Function
 End Module
